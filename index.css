@@ -1,0 +1,328 @@
+.list-item {
+    list-style-type: none;
+    margin-right: 40px;
+}
+.logo {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.getstarted {
+    font-family: 'Inter';
+    font-style: Medium;
+    font-size: 14px;
+    margin-right: 99.32px;
+    margin-top: 12px;
+    width: 102px; 
+    height: 38px;
+    background-color: gainsboro ;
+    color: black;
+    border: 0;
+    border-radius: 100px;
+}
+.jumystap {
+    width: 495;
+    height: 192px;
+}
+.hiw {
+    font-family: 'Inter';
+    font-style: Medium;
+    width: 144px;
+    height: 50px;
+    background-color: #712FFF;
+    color: white;
+    margin-left: 80px;
+    border-radius: 100px;
+    border: 0;
+    margin-top: 48px;
+
+}
+.upload {
+    font-family: 'Inter';
+    font-style: Medium;
+    width: 144px;
+    height: 50px;
+    background-color: #712FFF;
+    color: white;
+    margin-left: 80px;
+    border-radius: 100px;
+    border: 0;
+    margin-top: 48px;
+}
+.findjob {
+    font-family: 'Inter';
+    font-style: Medium;
+    width: 106px;
+    height: 50px;
+    background-color: #712FFF;
+    color: white;
+    margin-left: 80px;
+    border-radius: 100px;
+    border: 0;
+}
+.searcher {
+    width: 619px; 
+    height: 50px;
+    border-radius: 12px; 
+    border-color:antiquewhite; 
+    margin-left: 80px;
+}
+.gethired {
+    width: 495px;
+    height: 192px;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    align-items: center;
+    margin-left: 80px;
+}
+.description {
+    font-family: 'Inter';
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 22px;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 32px;
+    margin-left: 80px;
+    width: 495px;
+}
+.description2 {
+    font-family: 'Inter';
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 22px;
+    margin-left: 80px;
+    width: 495px;
+}
+.headerbuttons {
+    font-family: 'Inter';
+    font-style: Medium;
+    font-size: 16px;
+}
+.ipsum {
+    font-family: 'Inter';
+    font-style: Regular;
+    font-size: 12px;
+    margin-top: 103px;
+}
+.hiwmain {
+    width: 351px;
+    height: 56px;
+    font-family: 'Kanit';
+    font-style: Medium;
+    font-size: 54px;
+    line-height: 56px;
+    margin-top: 12px;
+    margin: 0;
+}
+.bestskills {
+    font-family: 'Inter';
+    font-style: bold;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 48px;
+}
+
+.cv {
+    font-family: 'Inter';
+    font-size: Medium;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 24px;
+}
+.flexrow {
+    display: flex;
+    flex-direction: row;
+}
+.flexcolumn {
+    display: flex;
+    flex-direction: column;
+}
+.flexcenter {
+    display: flex;
+    justify-content: center;
+}
+.viscont {
+    display: flex; 
+    margin-right: 47px; 
+    width: 687 px;
+    height: 458px;
+    margin-top: 133px;
+}
+input#search {
+background-image: url(Search.png);
+background-repeat: no-repeat;
+text-indent: 20px;
+}
+.end{
+    background-color: #F1F1F1;
+}
+
+.search-text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.cv-upload{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 64px 80px;
+    
+}
+
+.cv-text{
+    margin-left: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    order: 1;
+    position: relative;
+}
+
+.footer{
+    padding: 42px;
+    background: #FFFFFF;
+    border-radius: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.footer-list {
+    margin-right: 30px;
+    list-style-type: none;
+}
+
+.footer-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}
+.footer-label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 10px 12px;
+    color: #081E34;
+    margin-right: 70px;
+}
+.letsgetstartedcontainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 103px;
+    margin-left: 80px;
+}
+.letsgetstartedh1 {
+    width: 495;
+    height: 64px;
+    font-family: 'Kanit';
+    font-style: Bold;
+    font-size: 54px;
+}
+.getstarteddescription {
+    font-family: 'Inter';
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 22px;
+    width: 495px;
+    height: 44px;
+    margin-top: 32px;
+}
+input::placeholder {
+    fill: black;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: Medium;
+    
+}
+.searchline {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row;
+    width: 619px;
+    border: 0;
+    opacity: 20%;
+    height: 22px;
+}
+
+.findjob {
+    margin-top: 32px;
+    margin-left: 56px;
+    font-family: 'Inter';
+    font-style: Medium;
+    font-size: 14px;
+    line-height: 18px;
+    background-color: #712FFF;
+    height: 50px;
+    width: 106px;
+    border: 0;
+    border-radius: 100px;
+}
+.last {
+    display: flex;
+    flex-direction: row;
+    margin-top: 141px;
+    margin-left: 80px;
+    margin-right: 222px;
+    justify-content: space-between;
+}
+.lastright {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.uploadcv {
+    font-family: 'Kanit';
+    font-style: Medium;
+    font-size: 54px;
+    line-height: 56px;
+}
+.upload {
+    margin-top: 32px;
+    font-family: 'Inter';
+    font-style: Medium;
+    font-size: 14px;
+    line-height: 18px;
+    background-color: #712FFF;
+    height: 50px;
+    width: 106px;
+    border: 0;
+    border-radius: 100px;
+    margin-left: 0;
+}
+.uploadicon {
+    width: 18px; 
+    height: 18px;
+    align-items: center;
+}
